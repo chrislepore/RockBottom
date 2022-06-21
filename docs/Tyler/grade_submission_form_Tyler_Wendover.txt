@@ -1,0 +1,8 @@
+1. Your group number: Dark Grey
+
+2. You project name: Rock Bottom
+
+3. Your full name: Tyler Wendover
+
+4. One or more sentences explaining what you have done: 
+I created a save system that stores the players data and the invntory data that can be called at the beginning of level load to restore the data from the previous session. I also made the final boss Sevarog and did some ground work for the other AIs that Chris ended up doing more on.
